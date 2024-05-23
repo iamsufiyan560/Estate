@@ -60,11 +60,13 @@ To get started with this project, follow these steps:
 
     Create a `.env` file in the server directory and add the following variables:
 
-    ```env
-  MONGO = ""
-  JWT_SECRET = ''
-  VITE_FIREBASE_API_KEY = ""
+      ```bash
+   $  MONGO = ""
+   $  JWT_SECRET = ''
+   $  VITE_FIREBASE_API_KEY = ""
     ```
+
+    
 
 4. **Run the application**:
 
