@@ -43,17 +43,17 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    $ git clone https://github.com/yourusername/sufiyan-estate-marketplace.git
-    $ cd sufiyan-estate-marketplace
+     git clone https://github.com/yourusername/sufiyan-estate-marketplace.git
+     cd sufiyan-estate-marketplace
     ```
 
 2. **Install dependencies for the server and client**:
 
     ```bash
-    $ cd server
-    $ npm install
-    $ cd ../client
-    $ npm install
+     cd server
+     npm install
+     cd ../client
+     npm install
     ```
 
 3. **Set up environment variables**:
@@ -61,9 +61,9 @@ To get started with this project, follow these steps:
     Create a `.env` file in the server directory and add the following variables:
 
       ```bash
-   $  MONGO = ""
-   $  JWT_SECRET = ''
-   $  VITE_FIREBASE_API_KEY = ""
+     MONGO = ""
+      JWT_SECRET = ''
+     VITE_FIREBASE_API_KEY = ""
     ```
 
     
@@ -80,8 +80,8 @@ To get started with this project, follow these steps:
 
     ```bash
     # Terminal 2: Start the client
-    $ cd client
-    $ npm start
+     cd client
+     npm start
     ```
 
     The application should now be running at `http://localhost:3000`.
