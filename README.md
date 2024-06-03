@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-     git clone https://github.com/yourusername/sufiyan-estate-marketplace.git
+     git clone https://github.com/iamsufiyan560/Estate.git
      cd sufiyan-estate-marketplace
     ```
 
